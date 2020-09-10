@@ -4,3 +4,5 @@ oranges
 grapes
 MANGO!
 Kiwi
+carrots
+cucumbers
