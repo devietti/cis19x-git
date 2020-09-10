@@ -6,3 +6,4 @@ MANGO!
 Kiwi
 carrots
 cucumbers
+spinach
